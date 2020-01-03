@@ -1,6 +1,6 @@
 # METHODOLOGY: Using machine learning to find the best and worst value contracts
 
-[Link to blog post.](https://dribbleanalytics.blog/2019/01/contract-value)
+[Link to blog post.](https://dribbleanalytics.blog/2020/01/contract-value)
 
 ## Data collection
 

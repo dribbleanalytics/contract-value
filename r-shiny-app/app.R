@@ -27,7 +27,7 @@ ui <- fluidPage(theme = shinytheme('paper'),
                              p("This dashboard helps visualize the difference between player contract value and a player's actual contract. You can look at each team's
                                 contracts to see who is under or over paying players. You can also search for specific players to see their value.", style = "font-size:16px"),
                              h1("Links"),
-                             a(href="https://dribbleanalytics.blog/2019/01/contract-value",
+                             a(href="https://dribbleanalytics.blog/2020/01/contract-value",
                                div("Click here to see the original blog post which includes a more detailed discussion of methods and results.", style = 'font-size:16px')),
                              br(),
                              a(href="https://github.com/dribbleanalytics/contract-value/",
